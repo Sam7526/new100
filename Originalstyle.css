@@ -1,0 +1,133 @@
+/* Theme is Purple, Turquoise, white and black */
+* {
+margin: 0;
+padding: 0;
+}
+.imko{
+	width:30px;
+	height:30px;
+}
+body {
+background-color: #b8f2e6;
+}
+.heading1 {
+font-family: 'Noto Sans JP', sans-serif;
+font-size: 25px;
+line-height: 30px;
+margin-top: 190px;
+margin-left: 150px;
+text-align: left;
+color: white;
+}
+.block {
+display: square;
+height: 20%;
+border: no-borders;
+background-color: pink;
+color: white;
+font-size: 25px;
+text-align: center;
+}
+.heading3 {
+font-family: 'Noto Sans JP', sans-serif;
+line-height: 30px;
+font-size: 25px;
+margin-left: 150px;
+text-align: left;
+color: white;
+}
+.heading4 {
+font-family: 'Noto Sans JP', sans-serif;
+margin-left: 150px;
+text-align: left;
+color: white;
+}
+p {
+bottom: 0px;
+color: white;
+}
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+.footer01 {
+	position: fixed;
+	width: 1360px;
+    height:10px;
+    padding: 9px 5px;
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    margin: 0px; 
+    text-align:center; 
+    padding-top: 0.25px;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+}
+
+.button3:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+.button4 {
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7;
+}
+
+.button4:hover {background-color: #e7e7e7;}
+
+.button5 {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+.button5:hover {
+  background-color: #555555;
+  color: white;
+}

@@ -1,0 +1,480 @@
+body {
+ background-color: #9DF8FB;
+}
+.menu{
+	list-style: none;
+	background-color: black;
+	margin: 0;
+	padding: 0px;
+	overflow: hidden;
+}
+.menu li{
+	float: left;
+}
+.menu li a{
+	font-family: helvetica;
+	display: block;
+	padding: 14px 16px;
+	color: grey;
+	text-align: center;
+	text-decoration: none;
+}
+.sponsor01{
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  color: black;
+  text-align:center;
+}
+.pi{
+  margin-left: 125px;
+  margin-right: auto;
+}
+.op{
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  color:purple;
+  text-align: left;
+  margin-left: 30px;
+}
+.no{
+  font-family: 'Russo', sans-serif;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+
+}
+.hc{
+  font-family: 'Alata', sans-serif;
+  font-size: 18px;
+  color: white;
+}
+.linkop{
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  color:black;
+  text-align:left;
+  line-height: 10%;
+  margin-Left: 30px;
+}
+.heading{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 70px;
+  color: black;
+  text-align:center;
+}
+.abouth2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  color: black;
+  text-align:center;
+  line-height: 35%;
+}
+.aboutp{
+	font-family: helvetica;
+	font-size: 18px;
+	color: grey;
+	text-align: center;
+}
+.aboutp1{
+	font-family: 'Poppins', sans-serif;
+	font-size: 17px;
+	color: purple;
+	text-align: center;
+	line-height: 10%;
+}
+.logo01{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:90%;
+}
+.link{
+	font-family: helvetica;
+	font-size: 16px;
+	color: purple;
+	text-align: center;
+}
+.impacth2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  color: black;
+  text-align:center;
+  line-height: 35%;
+}
+.p{
+	font-family: helvetica;
+	font-size: 18px;
+	color: black;
+	text-align: center;
+}
+.Contactp{
+	font-family: helvetica;
+	font-size: 18px;
+	color: black;
+	text-align: center;
+	line-height: 15%;
+}
+.Contacth3{
+	font-family: helvetica;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	line-height: 8%;
+}
+.Contactus{
+	font-family: helvetica;
+	font-size: 25px;
+	color: black;
+	text-align: center;
+}
+.reh2{
+	font-family: helvetica;
+	font-size: 18px;
+	color: black;
+	text-align: center;
+	line-height: 30%;
+}
+.Contacth2{
+	font-family: helvetica;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	line-height: 8%;
+}
+.Homego{
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	line-height: 8%;
+}
+.block01{
+	display: inline-block;
+	margin-right: auto;
+	margin-left: 43%;
+	padding: 30px 30px;
+	cursor: pointer;
+	background-color: black;
+	font-family: helvetica;
+	font-size: 18px;
+	text-align: center;
+	text-decoration-style: orange;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 9px w#;
+	color: white;
+}
+.block01:hover {
+	background-color: purple;
+}
+.block01:active {
+  background-color: pink;
+  box-shadow: 1px 2px #e0aaff;
+  transform: translateY(4px);
+}
+.block02{
+	display: inline-block;
+	margin-right: auto;
+	margin-left: 47%;
+	padding: 30px 30px;
+	cursor: pointer;
+	background-color: black;
+	font-family: helvetica;
+	font-size: 14px;
+	text-align: center;
+	text-decoration-style: orange;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 9px w#;
+	color: white;
+}
+.block02:hover {
+	background-color: purple;
+}
+.block02:active {
+  background-color: pink;
+  box-shadow: 1px 2px #e0aaff;
+  transform: translateY(4px);
+}
+.block03{
+	display: inline-block;
+	margin-right: auto;
+	margin-left: 46%;
+	padding: 30px 30px;
+	cursor: pointer;
+	background-color: black;
+	font-family: helvetica;
+	font-size: 14px;
+	text-align: center;
+	text-decoration-style: orange;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 9px w#;
+	color: white;
+}
+.block03:hover {
+	background-color: pink;
+}
+.block03:active {
+  background-color: purple;
+  box-shadow: 1px 2px #e0aaff;
+  transform: translateY(4px);
+}
+.block04{
+	display: inline-block;
+	margin-right: auto;
+	margin-left: 45%;
+	padding: 30px 30px;
+	background-color: black;
+	font-family: helvetica;
+	font-size: 14px;
+	text-align: center;
+	color: white;
+}
+.topnav {
+	background-color: black;
+	overflow: hidden;
+	font-family: helvetica;
+}
+.topnav a {
+	float: left;
+	color: pink;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+
+}
+.topnav a:hover {
+	background-color: white;
+	color: black;
+}
+a.active {
+	background-color: pink;
+	color: white;
+}
+
+
+
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  font-family: 'Alata', sans-serif;
+  color: white;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: black;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: purple;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #FCDAE9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: white;
+  font-family: helvetica;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.freeprik01{
+	width: 60%;
+	height: auto;
+	margin-right: auto;
+	margin-left: 258px;
+}
+.freeprik02{
+	width: 55%;
+	height: auto;
+	margin-left: 290px;
+	margin-right: auto;
+}
+.freeprik03{
+  width: auto;
+  height: 50%;
+  margin-left: 355px;
+  margin-right: auto;
+}
+.freepik04{
+  width: auto;
+  height: 50%;
+  margin-left: 120px;
+  margin-right: auto;
+}
+.footerStyle ul{
+	list-style: none;
+	background-color: black;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.footerStyle li{
+	float:left;
+}
+.footerStyle li a{
+	display: block;
+	padding: 14px 16px;
+	color: white;
+	text-decoration: none;
+
+}
+.Connecth3{
+	font-family: 'Poppins', sans-serif;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	line-height: 15%
+}
+
+.slack01{
+  	font-family: helvetica;
+	font-size: 50px;
+	color:purple;
+	text-align: left;
+}
+.slackh{
+	font-family: 'Russo One', sans-serif;
+	font-size: 20px;
+	color: #bdb2ff;
+	text-align: left;
+}
+#myInput {
+  background-color: white;
+  width: 95%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 14px 20px 12px 40px; /* Add some padding */
+  border: 3px solid #ffbd59; /* Add a grey border */
+  margin-bottom: 12px;
+  margin-Left: 30px;/* Add some space below the input */
+}
+
+#myTable {
+  border-collapse: collapse; /* Collapse borders */
+  width: 95%; /* Full-width */
+  border: 3px solid #ffbd59; /* Add a grey border */
+  font-size: 18px;
+  margin-left: 30px;/* Increase font-size */
+}
+
+#myTable th, #myTable td {
+  text-align: left; /* Left-align text */
+  padding: 12px;
+  background-color: #ffbd59;/* Add padding */
+}
+
+#myTable tr {
+  /* Add a bottom border to all table rows */
+  border-bottom: 3px solid white;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  /* Add a grey background color to the table header and on hover */
+  background-color: black;
+}
+* {
+  box-sizing: border-box;
+}
+
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #ffbd59;
+}
+
+/* Style the container/contact section */
+.container {
+  border-radius: 5px;
+  background-color: #ffbd59;
+  padding: 10px;
+}
+
+/* Create two columns that float next to eachother */
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
